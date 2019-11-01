@@ -5,3 +5,5 @@ This repository contains a set of examples on how to use Wikimedia public conten
 * Wikipedia XML dumps
 * Quarry 
 * Wikidata 
+
+As starting point we recomed to use this notebook: https://github.com/digitalTranshumant/Wiki-examples/blob/master/WikiMediaPublicTools.ipynb
